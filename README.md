@@ -1,2 +1,2 @@
 # Example-4
-Test working with get\set and inheritance using an instrument stock model.
+Test working with get\set and inheritance using an instrument stock model. Includes some code duplication. 
